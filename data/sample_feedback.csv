@@ -1,0 +1,8 @@
+feedback,segment,urgent
+"Checkout crashes when applying coupon",Enterprise,yes
+"Payment button does not complete purchase",SMB,1
+"Please export reports to Excel",Enterprise,0
+"Search returns unrelated saved projects",Startup,0
+"Dashboard loads slowly on mobile",SMB,true
+"Allow different teammate roles",Enterprise,no
+"Dark mode would help",Startup,no
